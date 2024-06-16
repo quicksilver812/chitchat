@@ -1,4 +1,4 @@
-# React Chatbot
+# ChitChat - A React Chatbot
 
 This is a chatbot application built using React.js for the frontend, Node.js for the backend, and the [ChatEngine.io](https://chatengine.io/) API for the chat functionality. The application uses the `react-chat-engine-pretty` package to provide a sleek and modern chat interface.
 

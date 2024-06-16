@@ -7,6 +7,18 @@ This is a chatbot application built using React.js for the frontend, Node.js for
 - Real-time chat messaging
 - User authentication and creation
 - Ability to create and join chat rooms
+- Ability to share files
+
+## Screenshots
+
+### Login Screen
+![Login Screen](login.png)
+
+### Person A
+![Login Screen](john.png)
+
+### Person B
+![Login Screen](jane.png)
 
 ## Prerequisites
 

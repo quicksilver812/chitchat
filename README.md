@@ -12,13 +12,13 @@ This is a chatbot application built using React.js for the frontend, Node.js for
 ## Screenshots
 
 ### Login Screen
-![Login Screen](login.png)
+![Login Screen](screenshots/login.png)
 
 ### Person A
-![Login Screen](john.png)
+![Login Screen](screenshots/john.png)
 
 ### Person B
-![Login Screen](jane.png)
+![Login Screen](screenshots/jane.png)
 
 ## Prerequisites
 
